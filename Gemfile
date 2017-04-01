@@ -37,7 +37,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'#安裝網頁排版效果ß
 gem 'simple_form'#安裝表單簡化ß
 gem 'devise' #安壙會員系統
-
+gem 'will_paginate'#分頁
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
